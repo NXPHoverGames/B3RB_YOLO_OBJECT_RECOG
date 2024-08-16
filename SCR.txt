@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Name: B3RB YOLOv5 OBJECT RECOGNITION
+Version: 1.0
+Outgoing License: AGPL-3.0 license
+License File: LICENSE
+Description: framework for running YOLOv5 TFLITE model on NXP IMX8MPLUS NPU.
+	For the list of objects recognized by the YOLOv5 model, refer coco.yaml.
+	Participants may be required to further train the attached default model.
+	Please feel free to modify this file in to enhance object recognition.
+Release location: https://github.com/NXPHoverGames/B3RB_YOLO_OBJECT_RECOG.
+Origin: Referred YOLOv5 implementation from https://github.com/ultralytics/yolov5.
